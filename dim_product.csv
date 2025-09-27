@@ -1,0 +1,7 @@
+product,product_id,product_type
+IRS,10,Interest Rate Swap
+Bond,11,Fixed Income
+FX Forward,12,FX
+Equity Swap,13,Equity
+Option,14,Option
+Equity,15,Equity

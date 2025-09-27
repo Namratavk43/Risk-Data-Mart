@@ -1,0 +1,5 @@
+scenario_id,scenario_name,desk,date,pnl_impact
+S001,2008_Crisis,Rates,2025-09-22,-5000000
+S002,COVID_Drop,Equities,2025-09-22,-2200000
+S003,Rate_Spike,Rates,2025-09-22,-3500000
+S004,FX_Shift,FX,2025-09-22,-1100000
